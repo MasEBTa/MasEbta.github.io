@@ -1,0 +1,83 @@
+[
+  {
+    "judul": "Pendahuluan",
+    "subbab code": "MB001-WHAT",
+    "materi": [
+      {
+        "code": "P1",
+        "header": "Pendahuluan",
+        "body": "<p style='text-align: justify'>Bilangan merupakan sebuah ide mengenai jumlah atau banyaknya sesuatu. Jadi, bisa dikatakan bahwa bilangan merupakan sebuah konsep yang digunakan untuk mengukur jumlah (mencacah) banyaknya suatu benda. Lambang atau dari bilangan disebut juga sebagai angka. Jadi angka merupakan sesuatu yang diciptakan karena dibutuhkan. Ada banyak cara untuk menyimbolkan bilangan ini misalkan angka desimal (0, 1, 2, 3, 4, ...), angka romawi (I, II, III, IV, ...), angka arab (&#x0660;, &#x0661;, &#x0662;, &#x0663;, &#x0664;, ...), angka china (&#x96F6;, &#x4E00;, &#x4E8C;, &#x4E09;, &#x56DB;, ...), angka babelonia (&#x96F6;, &#x4E00;, &#x4E8C;, &#x4E09;, &#x56DB;, ...), angka babilonia, angka hindu (&#x0966;, &#x0967;, &#x0968;, &#x0969;, &#x096A;, ...), dan masil banyak lagi. Dari banyaknya jenis tersebut, hampir semua memiliki kemiripan yakni berbasis 10. Dimana setiap sepuluh angka mereka akan berulang (meskipun banyak sistem lain seperti angka babilonia yang berbasis 60). Namun yang akan kita pelajari adalah sistem berbasis desima atau berbasis 10 angka (Karena di Indonesia dan mayoritas negara di dunia menggunakan sistem ini).</p><p style='text-align: justify'>Jadi dalam sistem bilangan desimal ada beberapa pembagian jenis-jenis bilangan yang sering digunakan di dalam matematika. Misalkan :</p><ul><li>Bilangan Asli</li><li>Bilangan Cacah</li><li>Bilangan Bulat</li><li>Bilangan Rasional</li><li>Bilangan Irasional</li><li>Bilangan Real</li><li>Bilangan Kompleks</li></ul>",
+        "style": ".card-text {text-align: justify;}",
+        "tipe": "teks"
+      },
+      {
+        "code": "P2",
+        "header": "Angka",
+        "body": "<p style='text-align: justify'>Untuk melambangkan sebuah bilangan kita bisa menggunakan angka. Jika ada benda seperti ini.</p><img class='img' alt='dua buah apel' src='/asset/2apple.webp' width='170px' /><p style='text-align: justify'>Kita bisa melambangkan bahwa ada 2 apple. Itulah fungsi angka, untuk melambangkan banyaknya jumlah benda.</p><h6 class='card-title'>Sistem Angka</h6><p style='text-align: justify'>Angka dibagi menjadi sepuluh lambang. yakni :</p><ul><li>0 (nol)</li><li>1 (satu)</li><li>2 (dua)</li><li>3 (tiga)</li><li>4 (empat)</li><li>5 (lima)</li><li>6 (enam)</li><li>7 (tujuh)</li><li>8 (delapan)</li><li>9 (sembilan)</li></ul><h6 class='card-title'>Urutan</h6><p style='text-align: justify'>Angka diurutkan dari yang paling sedikit seperti ini :</p><p>0, 1, 2, 3, 4, 5, 6, 7, 8, 9</p><p style='text-align: justify'>Ketika telah mencapai angka ke sembilan dia akan meningkat menjadi dua angka yang disebut pulihan seperti ini :</p><p>0, 1, 2, 3, 4, 5, 6, 7, 8, 9,<br />10, 11, 12, 13, 14, 15, 16, 17, 18, 19</p><p style='text-align: justify'>Ketika telah mencapai angka ke sembilan lagi, angka tingkatannya akan bertambah seperti ini :</p><p>0, 1, 2, 3, 4, 5, 6, 7, 8, 9,<br />10, 11, 12, 13, 14, 15, 16, 17, 18, 19<br />20, 21, 22, 23, 24, 25, 26, 27, 28, 29</p><p style='text-align: justify'>Hal itu akan terus berulang hingga dia menemukan tingkatan ke sembilan terakhir :</p><p> 0, 1, 2, 3, 4, 5, 6, 7, 8, 9,<br />10, 11, 12, 13, 14, 15, 16, 17, 18, 19,<br />20, 21, 22, 23, 24, 25, 26, 27, 28, 29,<br />30, 31, 32, 33, 34, 35, 36, 37, 38, 39,<br />40, 41, 42, 43, 44, 45, 46, 47, 48, 49,<br />50, 51, 52, 53, 54, 55, 56, 57, 58, 59,<br />60, 61, 62, 63, 64, 65, 66, 67, 68, 69,<br />70, 71, 72, 73, 74, 75, 76, 77, 78, 79,<br />80, 81, 82, 83, 84, 85, 86, 87, 88, 89,<br />90, 91, 92, 93, 94, 95, 96, 97, 98, 99</p><p style='text-align: justify'>Setelah itu angkanya akan bertingkat menjadi tiga tingkatan yang disebut ratusan seperti ini :</p><p>0, 1, 2, 3, 4, 5, 6, 7, 8, 9,<br />10, 11, 12, 13, 14, 15, 16, 17, 18, 19,<br />20, 21, 22, 23, 24, 25, 26, 27, 28, 29,<br />30, 31, 32, 33, 34, 35, 36, 37, 38, 39,<br />40, 41, 42, 43, 44, 45, 46, 47, 48, 49,<br />50, 51, 52, 53, 54, 55, 56, 57, 58, 59,<br />60, 61, 62, 63, 64, 65, 66, 67, 68, 69,<br />70, 71, 72, 73, 74, 75, 76, 77, 78, 79,<br />80, 81, 82, 83, 84, 85, 86, 87, 88, 89,<br />90, 91, 92, 93, 94, 95, 96, 97, 98, 99,<br />100, 101, 102, 103, 104, 105, 106, 107, 108, 109,<br />110, 111, 112, 113, 114, 115, 116, 117, 118, 119,<br />120, 121, 122, 123, 124, 125, 126, 127, 128, 129,<br />130, 131, 132, 133, 134, 135, 136, 137, 138, 139,<br />140, 141, 142, 143, 144, 145, 146, 147, 148, 149,<br />150, 151, 152, 153, 154, 155, 156, 157, 158, 159,<br />160, 161, 162, 163, 164, 165, 166, 167, 168, 169,<br />170, 171, 172, 173, 174, 175, 176, 177, 178, 179,<br />180, 181, 182, 183, 184, 185, 186, 187, 188, 189,<br />190, 191, 192, 193, 194, 195, 196, 197, 198, 199,<br />200, 201, 202, 203, 204, 205, 206, 207, 208, 209,<br />210, 211, 212, 213, 214, 215, 216, 217, 218, 219,<br />220, 221, 222, 223, 224, 225, 226, 227, 228, 229,<br />230, 231, 232, 233, 234, 235, 236, 237, 238, 239,<br />240, 241, 242, 243, 244, 245, 246, 247, 248, 249,<br />250, 251, 252, 253, 254, 255, 256, 257, 258, 259,<br />260, 261, 262, 263, 264, 265, 266, 267, 268, 269,<br />270, 271, 272, 273, 274, 275, 276, 277, 278, 279,<br />280, 281, 282, 283, 284, 285, 286, 287, 288, 289,<br />290, 291, 292, 293, 294, 295, 296, 297, 298, 299, ...</p><p style='text-align: justify'>Hal tersebut akan terus berlanjut hingga tingkatan yang sangat banyak.</p>",
+        "style": ".card-text {text-align: justify;}",
+        "tipe": "teks"
+      }
+    ]
+  },
+  {
+    "judul": "Angka Satuan",
+    "subbab code": "MB001-SAT",
+    "materi": [
+      {
+        "code": "P1",
+        "header": "Angka Satuan",
+        "body": "<div>Satuan adalah bilangan yang hanya terdiri dari satu angka antara 0 - 9.</div><ul>Contoh<li>0 (dibaca nol)</li><li>1 (dibaca satu)</li><li>2 (dibaca dua)</li><li>3 (dibaca tiga)</li><li>4 (dibaca empat)</li><li>5 (dibaca lima)</li><li>6 (dibaca enam)</li><li>7 (dibaca tujuh)</li><li>8 (dibaca delapan)</li><li>9 (dibaca sembilan)</li></ul><div>Semua angka dalam contoh di atas adalah satuan. Karena terdiri hanya dari satu angka.</div>",
+        "style": ".card-text {text-align: justify;}",
+        "tipe": "teks"
+      }
+    ]
+  },
+  {
+    "judul": "Angka Puluhan",
+    "subbab code": "MB001-PUL",
+    "materi": [
+      {
+        "code": "P1",
+        "header": "Pengertian",
+        "body": "<div>Bilangan puluhan adalah bilangan yang tersusun dari dua angka antara 10-99.</div><ul>Contoh<li>10 (sepuluh)</li><li>15 (lima belas)</li><li>17 (tuju belas)</li><li>20 (dua puluh)</li><li>23 (dua puluh tiga)</li><li>25 (dua puluh lima)</li><li>30 (tiga puluh)</li><li>36 (tiga puluh enam)</li><li>38 (tiga puluh delapan)</li><li>40 (empat puluh)</li><li>44 (empat puluh empat)</li><li>46 (empat puluh enam)</li></ul>",
+        "style": ".card-text {text-align: justify;}",
+        "tipe": "teks"
+      },
+      {
+        "code": "P2",
+        "header": "Cara Baca 1",
+        "body": "<h6 class='card-subtitle mb-2 text-body-secondary'>Jika Satuannya nol (puluh)</h6><p style='text-align: justify'>Ketika angka puluhan diakhiri angka nol sebagai angka satuannya (angka kedua). Maka dia bisa dibaca dengan menyebutkan angka puluhannya (angka pertama) diikuti kata puluh.</p><ul>Contoh<li>20 (<span style='color: brown'>dua</span>&nbsp;<span style='color: blueviolet'>puluh</span>)</li><li>30 (<span style='color: brown'>tiga</span>&nbsp;<span style='color: blueviolet'>puluh</span>)</li><li>40 (<span style='color: brown'>empat</span>&nbsp;<span style='color: blueviolet'>puluh</span>)</li><li>50 (<span style='color: brown'>lima</span>&nbsp;<span style='color: blueviolet'>puluh</span>)</li><li>60 (<span style='color: brown'>enam</span>&nbsp;<span style='color: blueviolet'>puluh</span>)</li><li>70 (<span style='color: brown'>tuju</span>&nbsp;<span style='color: blueviolet'>puluh</span>)</li><li>80 (<span style='color: brown'>delapan</span>&nbsp;<span style='color: blueviolet'>puluh</span>)</li><li>90 (<span style='color: brown'>sembilan</span>&nbsp;<span style='color: blueviolet'>puluh</span>)</li></ul><p style='text-align: justify'>Namun hal di atas tidak berlaku jika angka puluhannya adalah 1. Karena jika angka puluhannya adalah satu dibacanya menjadi sepuluh.</p><p>10 dibaca sepuluh bukan satu puluh.</p><h6 class='card-subtitle mb-2 text-body-secondary'>Konstruksi :</h6><p class='card ps-1'><code><span style='color: brown'>puluhan</span>&nbsp;<span style='color: blueviolet'>puluh</span></code></p>",
+        "style": ".card-text {text-align: justify;}",
+        "tipe": "teks"
+      },
+      {
+        "code": "P3",
+        "header": "Cara Baca 2",
+        "body": "<h6 class='card-subtitle mb-2 text-body-secondary'>Jika Satuannya Bukan Nol</h6><p style='text-align: justify'>Ketika angka puluhan tidak diakhiri angka nol sebagai angka satuannya (angka kedua). Maka dia bisa dibaca dengan menyebutkan angka puluhannya diikuti kata puluh, lalu menyebutkan angka satuannya.</p><ul>Contoh<li>21 (<span style='color: brown'>dua</span>&nbsp;<span style='color: blueviolet'>puluh</span>&nbsp;<span style='color:blue'>satu</span>)</li><li>32 (<span style='color: brown'>tiga</span>&nbsp;<span style='color: blueviolet'>puluh</span>&nbsp;<span style='color:blue'>dua</span>)</li><li>43 (<span style='color: brown'>empat</span>&nbsp;<span style='color: blueviolet'>puluh</span>&nbsp;<span style='color:blue'>tiga</span>)</li><li>59 (<span style='color: brown'>lima</span>&nbsp;<span style='color: blueviolet'>puluh</span>&nbsp;<span style='color:blue'>sembilan</span>)</li><li>68 (<span style='color: brown'>enam</span>&nbsp;<span style='color: blueviolet'>puluh</span>&nbsp;<span style='color:blue'>delapan</span>)</li><li>77 (<span style='color: brown'>tuju</span>&nbsp;<span style='color: blueviolet'>puluh</span>&nbsp;<span style='color:blue'>tuju</span>)</li><li>86 (<span style='color: brown'>delapan</span>&nbsp;<span style='color: blueviolet'>puluh</span>&nbsp;<span style='color:blue'>enam</span>)</li><li>95 (<span style='color: brown'>sembilan</span>&nbsp;<span style='color: blueviolet'>puluh</span>&nbsp;<span style='color:blue'>lima</span>)</li></ul><p style='text-align: justify'>Namun hal di atas tidak berlaku jika angka puluhannya adalah 1. Karena jika angka puluhannya adalah satu dia memiliki cara sendiri untuk membacanya.</p><h6 class='card-subtitle mb-2 text-body-secondary'>Konstruksi :</h6><p class='card ps-1'><code><span style='color: brown'>puluhan</span>&nbsp;<span style='color: blueviolet'>puluh</span>&nbsp;<span style='color:blue'>satuan</span></code></p>",
+        "style": ".card-text {text-align: justify;}",
+        "tipe": "teks"
+      },
+      {
+        "code": "P4",
+        "header": "Cara Baca 3",
+        "body": "<h6 class='card-subtitle mb-2 text-body-secondary'>Jika Puluhannya Satu</h6><p style='text-align: justify'>Ketika angka puluhan diawali angka satu, dia memiiki cara baca yang istimewa dan berbeda dengan yang lainnya dalam bahasa Indonesia.</p><h6 class='card-subtitle mb-2 text-body-secondary'>Jika Satuannya Nol atau Satu</h6><p style='text-align: justify'>Ketika angka puluhan diawali angka satu, dan angka satuannya adalah satu atau nol. Maka, angka satu tersebut cara bacanya berubah menjadi se-.</p><p class='card-subtitle mb-2 text-body-secondary'>Jika Satuannya Nol</p><p style='text-align: justify'>Ketika angka puluhan diawali angka satu, dan angka satuannya adalah satu nol. Maka, angka satu tersebut cara bacanya berubah menjadi se- dan diikuti kata -puluh yang disambung. 10 dibaca <code><span style='color: brown'>se</span><span style='color: blueviolet'>puluh</span></code></p><p class='card-subtitle mb-2 text-body-secondary'>Jika Satuannya Satu</p><p style='text-align: justify'>Ketika angka puluhan diawali angka satu, dan angka satuannya adalah satu nol. Maka, angka satu tersebut cara bacanya berubah menjadi se- dan diikuti kata -belas yang disambung. 11 dibaca <code><span style='color: brown'>se</span><span style='color: blueviolet'>belas</span></code></p>",
+        "style": ".card-text {text-align: justify;}",
+        "tipe": "teks"
+      },
+      {
+        "code": "P5",
+        "header": "Cara Baca 4",
+        "body": "<h6 class='card-subtitle mb-2 text-body-secondary'>Jika Puluhannya Satu dan Satuannya Bukan Nol atau Satu</h6><p style='text-align: justify'>Ketika angka puluhan diawali angka satu dan angka satuannya bukan nol maupun satu maka dia bisa dibaca dengan menyebut angka satuannya diikuti kata belas.</p><ul>contoh :<li>12 (<span style='color: brown'>dua</span>&nbsp;<span style='color: blueviolet'>belas</span>)</li><li>13 (<span style='color: brown'>tiga</span>&nbsp;<span style='color: blueviolet'>belas</span>)</li><li>14 (<span style='color: brown'>empat</span>&nbsp;<span style='color: blueviolet'>belas</span>)</li><li>15 (<span style='color: brown'>lima</span>&nbsp;<span style='color: blueviolet'>belas</span>)</li><li>16 (<span style='color: brown'>enam</span>&nbsp;<span style='color: blueviolet'>belas</span>)</li><li>17 (<span style='color: brown'>tuju</span>&nbsp;<span style='color: blueviolet'>belas</span>)</li><li>18 (<span style='color: brown'>delapan</span>&nbsp;<span style='color: blueviolet'>belas</span>)</li><li>19 (<span style='color: brown'>sembilan</span>&nbsp;<span style='color: blueviolet'>belas</span>)</li></ul><h6 class='card-subtitle mb-2 text-body-secondary'>Konstruksi :</h6><p class='card ps-1'><code><span style='color: brown'>satuan</span>&nbsp;<span style='color: blueviolet'>belas</span></code></p>",
+        "style": ".card-text {text-align: justify;}",
+        "tipe": "teks"
+      },
+      {
+        "code": "P6",
+        "header": "Puluhan dan Belasan",
+        "body": "<p style='text-align: justify'>Jadi kalian sudah mengerti bahwa angka puluhan merupakan angka yang terdiri dari dua buah angka. Namun dari angka puluhan dapat tergolong ke dalam bagian-bagian lainnya lagi.</p><ul><li>Belasan</li><p style='text-align: justify'>Ketika angka puluhan diawali angka satu. Maka dia termasuk ke dalam angka belasan.</p><p style='text-align: justify'>Contoh : 11, 12, 13, 14, 15, 16, 17, 18, 19</p><li>Dua puluhan</li><p style='text-align: justify'>Ketika angka puluhan diawali angka dua. Maka dia termasuk ke dalam angka dua puluhan.</p><p style='text-align: justify'>Contoh : 21, 22, 23, 24, 25, 26, 27, 28, 29</p><li>Tiga puluhan</li><p style='text-align: justify'>Ketika angka puluhan diawali angka tiga. Maka dia termasuk ke dalam angka tiga puluhan.</p><p style='text-align: justify'>Contoh : 31, 32, 33, 34, 35, 36, 37, 38, 39</p><li>Empat puluhan</li><p style='text-align: justify'>Ketika angka puluhan diawali angka empat. Maka dia termasuk ke dalam angka empat puluhan.</p><p style='text-align: justify'>Contoh : 41, 42, 43, 44, 45, 46, 47, 48, 49</p><li>Lima puluhan</li><p style='text-align: justify'>Ketika angka puluhan diawali angka lima. Maka dia termasuk ke dalam angka lima puluhan.</p><p style='text-align: justify'>Contoh : 51, 52, 53, 54, 55, 56, 57, 58, 59</p><li>Enam puluhan</li><p style='text-align: justify'>Ketika angka puluhan diawali angka enam. Maka dia termasuk ke dalam angka enam puluhan.</p><p style='text-align: justify'>Contoh : 61, 62, 63, 64, 65, 66, 67, 68, 69</p><li>Tuju puluhan</li><p style='text-align: justify'>Ketika angka puluhan diawali angka tuju. Maka dia termasuk ke dalam angka tuju puluhan.</p><p style='text-align: justify'>Contoh : 71, 72, 73, 74, 75, 76, 77, 78, 79</p><li>Delapan puluhan</li><p style='text-align: justify'>Ketika angka puluhan diawali angka delapan. Maka dia termasuk ke dalam angka delapan puluhan.</p><p style='text-align: justify'>Contoh : 81, 82, 83, 84, 85, 86, 87, 88, 89</p><li>Sembilan puluhan</li><p style='text-align: justify'>Ketika angka puluhan diawali angka sembilan. Maka dia termasuk ke dalam angka sembilan puluhan.</p><p style='text-align: justify'>Contoh : 91, 92, 93, 94, 95, 96, 97, 98, 99</p></ul>",
+        "style": ".card-text {text-align: justify;}",
+        "tipe": "teks"
+      }
+    ]
+  }
+]

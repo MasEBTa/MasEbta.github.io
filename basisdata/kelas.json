@@ -1,0 +1,122 @@
+[
+  {
+    "nama": "JavaScript",
+    "keterangan": "Pelajari semua fitur dasar JavaScript, termasuk membuat situs web Anda lebih interaktif, mengubah konten situs web, memvalidasi formulir, dan banyak lagi.",
+    "kelas code": "JS",
+    "bab": [
+      {
+        "bab": "JavaScript Dasar",
+        "bab code": "JS101",
+        "data file": "javascriptDasar.json",
+        "keterangan": "Mempelajari Dasar-dasar JavaScript seperti pengenalan, sintaks, tipe data, dll.",
+        "subbab": [
+          {
+            "title": "Pendahuluan",
+            "subbab code": "JS101-P1"
+          },
+          {
+            "title": "Program Pertama",
+            "subbab code": "JS101-P2"
+          },
+          {
+            "title": "Pengenalan console.log",
+            "subbab code": "JS101-P3"
+          },
+          {
+            "title": "Komentar",
+            "subbab code": "JS101-P4"
+          },
+          {
+            "title": "Variable",
+            "subbab code": "JS101-P5"
+          },
+          {
+            "title": "Tipe Data Number",
+            "subbab code": "JS101-P6"
+          },
+          {
+            "title": "Tipe Data Boolean",
+            "subbab code": "JS101-P7"
+          },
+          {
+            "title": "String",
+            "subbab code": "JS101-P8"
+          },
+          {
+            "title": "Operator Matematika",
+            "subbab code": "JS101-P9"
+          },
+          {
+            "title": "Operator Perbandingan",
+            "subbab code": "JS101-P10"
+          },
+          {
+            "title": "Operator Logika",
+            "subbab code": "JS101-P11"
+          },
+          {
+            "title": "Cosole",
+            "subbab code": "JS101-P12"
+          },
+          {
+            "title": "Konversi String dan Number",
+            "subbab code": "JS101-P13"
+          },
+          {
+            "title": "Array",
+            "subbab code": "JS101-P14"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nama": "Php",
+    "keterangan": "Pelajari semua fitur dasar Php, termasuk membuat situs web Anda lebih powerfull, ngirim formulis, menerima data, dan banyak lagi.",
+    "kelas code": "PHP",
+    "bab": [
+      {
+        "bab": "Php Dasar",
+        "bab code": "PHP101",
+        "keterangan": "Mempelajari Dasar-dasar Php seperti pengenalan, sintaks, tipe data, dll.",
+        "subbab": [
+          {
+            "title": "Pendahuluan",
+            "subbab code": "PHP101-P1"
+          },
+          {
+            "title": "Program Pertama",
+            "subbab code": "PHP101-P2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nama": "Matematika",
+    "keterangan": "Matematika Itu Menyenangkan Bukan?",
+    "kelas code": "MATH",
+    "bab": [
+      {
+        "bab": "Pengenalan Bilangan",
+        "bab code": "MATHBIL",
+        "data file": "matematika.json",
+        "keterangan": "Mempelajari Dasar-dasar dan Jenis-jenis bilangan yang memungkinkan.",
+        "subbab": [
+          {
+            "title": "Pendahuluan",
+            "subbab code": "MB001-WHAT"
+          },
+          {
+            "title": "Angka Satuan",
+            "subbab code": "MB001-SAT"
+          },
+          {
+            "title": "Angka Puluhan",
+            "subbab code": "MB001-PUL"
+          }
+        ]
+      }
+    ]
+  }
+]
