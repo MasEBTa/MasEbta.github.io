@@ -1,0 +1,69 @@
+[
+  {
+    "judul": "Pengantar",
+    "subbab code": "BASEWEB-PN",
+    "materi": [
+      {
+        "code": "BW01",
+        "header": "Pengantar Web Programming",
+        "body": "<p class='card-text' style='text-align: justify'>Pernahkah anda berfikir mengenai seberapa banyak orang yang mengakses website setiap harinya? Menurut laporan We Are Social, terdapat 204,7 juta pengguna internet di Tanah Air per Januari 2022. Dan website merupakan salah satu yang diakses para pengguna Internet.</p><p class='card-text' style='text-align: justify'>Bagi Anda yang sedang memasuki dunia web development, pastinya level Anda bukan lagi pengguna biasa lagi. Level anda telah meningkat menjadi pengembang dan anda akan memiliki kemampuan untuk mengembangkan sebuah website.</p><p class='card-text' style='text-align: justify'>Namun, sebelum itu apaka Anda telah mengetahui hal-hal seperti INternet, website, halaman web (web page). Apakah anda memahami dan membedakan istilah-istiah tersebut? bagi anda yang sering berselancar di peramban web (browser), pastinya tidak lagi asing dengan istilah-istiah tersebut. Namun kali ini kita akan mencoba <em>me-remaind</em> (mengingat) ulang dari istilah-istilah tersebut.</p>",
+        "style": ".card-text {text-align: justify;}",
+        "tipe": "teks"
+      }
+    ]
+  },
+  {
+    "judul": "Cara Kerja Internet",
+    "subbab code": "BASEWEB-INT",
+    "materi": [
+      {
+        "code": "BI01",
+        "header": "Overview",
+        "body": "<p class='card-text' style='text-align: justify'>Internet sudah menjadi fitur penting dalam kehidupan kita. Hampir seluruh pekerjaan dan aktivitas kita saat ini memerlukan koneksi Internet yang lancar supaya bisa diselesaikan dengan baik. Namun, pernahkah Anda berpikir mengenai cara kerja Internet sehingga bisa dirasakan oleh penggunanya?</p><p class='card-text' style='text-align: justify'>Internet telah hadir di dunia sejak lebih dari 50 tahun yang lalu. Sejak kehadirannya, Internet telah mengalami perkembangan teknologi dan fungsi sehingga lebih canggih seperti saat ini. Pengguna Internet pun makin meningkat seiring maraknya berbagai fasilitas yang membutuhkan jaringan ini.</p>",
+        "style": ".card-text {text-align: justify;}",
+        "tipe": "teks"
+      },
+      {
+        "code": "BI02",
+        "header": "Apa Itu Internet?",
+        "body": "<p class='card-text' style='text-align: justify'>Internet merupakan kepanjangan dari interconnection networking, yakni jaringan komputer yang saling terhubung satu sama lain. Seluruh komputer di dunia tersambung menggunakan sistem protokol bernama TCP/IP alias Transmission Control Protocol/Internet Protocol. Tidak hanya komputer, perangkat lainnya seperti tablet, smartphone, laptop, dan sebagainya juga terhubung dengan jaringan Internet untuk menyelesaikan pekerjaannya.</p><p class='card-text' style='text-align: justify'>Kamus Besar Bahasa Indonesia (KBBI) mendefinisikan internet sebagai jaringan komunikasi elektronik yang menghubungkan jaringan komputer dan fasilitas komputer yang terorganisasi di seluruh dunia melalui telepon atau satelit. Internet sendiri merupakan singkatan dari Interconnected Network.</p>",
+        "style": ".card-text {text-align: justify;}",
+        "tipe": "teks"
+      },
+      {
+        "code": "BI03",
+        "header": "Pengiriman Data",
+        "body": "<p class='card-text' style='text-align: justify'>Sebelum memahami cara kerja internet dalam jaringan, perlu diketahui internet terdiri dari berjuta-juta perangkat yang terhubung dalam jaringan komputer global.</p><p class='card-text' style='text-align: justify'>Cara kerja internet dimulai dari pusat data, di mana data dari berbagai sumber dikirim dan diterima. Pusat data ini berfungsi sebagai 'pusat kontrol' dari mana semua informasi mengalir, dan dioperasikan oleh perusahaan-perusahaan teknologi, seperti Google, Amazon, Facebook, dan lainnya.</p><div class='container' style='text-align:center'><img src='/asset/map.png' class='img-fluid' alt='Gambar Map' style='max-width: 300px; width:100%;'/></div><p class='card-text' style='text-align: justify'>Bayangkang bahwa internet merupakan sebuah jalan yang menghubungkan antar satu rumah ke rumah lain. Karena setiap device yang kita memiliki memiliki sebuah alamat (IP address). Alamat tersebut yang kita gunakan sebagai identitas di Internet. Ketika kita meminta data ke Instagram maka kita meminta (request) ke alamat komputer server milik instagram. Data yang kita minta dapat berupa foto atau video maupun reels yang dimiliki Instagram. Jika Instagram menerima permintaan kita maka mereka akan mengirimkan data request kita dalam bentuk response ke alamat device kita dan ditampilkan ke layar.</p>",
+        "style": ".card-text {text-align: justify;}",
+        "tipe": "teks"
+      }
+    ]
+  },
+  {
+    "judul": "Web Site and Web Pages",
+    "subbab code": "BASEWEB-PAGE",
+    "materi": [
+      {
+        "code": "BP01",
+        "header": "Web Page N Web Site",
+        "body": "<p class='card-text' style='text-align: justify'>Anda pasti tau mengenai web. Paling tidak familia soal itu. Namun apakah Anda juga tau perbedaan dari web page dan web site. Dalam bahasa indonenia web page disebut sebagai halaman web, sedangkan web site disebut sebagai situs web atau web portal.</p>",
+        "style": ".card-text {text-align: justify;}",
+        "tipe": "teks"
+      },
+      {
+        "code": "BP02",
+        "header": "Web Page",
+        "body": "<div class='container' style='text-align: center'><img src='/asset/page.png' class='img-fluid' alt='Gambar Map' style='max-width: 100px; width: 100%' /></div><p class='card-text' style='text-align: justify'>Web page atau halaman web merupakan halaman tunggal yang menampilkan informasi, baik teks, gambar maupun media lainnta. Tidak hanya media yang ditampilkan, dan disajikan dengan cukup menarik.</p><p>Ketika kalian mengakses materi ini maka keseluruhan yang ada di layar anda merupakan sebuah halam web.</p>",
+        "style": ".card-text {text-align: justify;}",
+        "tipe": "teks"
+      },
+      {
+        "code": "BP03",
+        "header": "Web Site",
+        "body": "<div class='container' style='text-align: center'><img src='/asset/web-site.png' class='img-fluid' alt='Gambar Map' style='max-width: 200px; width: 100%' /></div><p class='card-text' style='text-align: justify'>Web site atau dalam bahasa indonesia dikenal dengan situs web merupakan kumpulan lebih dari satu halama web yang diakomodir dengan baik untuk menampilkan informasi secara teratur dan lengkap.</p><p  class='card-text' style='text-align: justify'>Jadi dapat dikatakan bahwa web site merupakan kumpulan dari web page. Untuk saai ini Anda sedang berada di situs web Schooba Onlie. Situs web Shooba Online ini mengakomodir berberapa halaman web yang berisi materi-materi pembelajaran yang diatur sedemikian rupa sehingga dapat menjadi informasi yang utuh dan menarik.</p>",
+        "style": ".card-text {text-align: justify;}",
+        "tipe": "teks"
+      }
+    ]
+  }
+]

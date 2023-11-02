@@ -118,5 +118,44 @@
         ]
       }
     ]
+  },
+  {
+    "nama": "HTML",
+    "keterangan": "Dasar-dasar HTML.",
+    "kelas code": "HTML",
+    "bab": [
+      {
+        "bab": "Pengenalan Web Programming",
+        "bab code": "BASEWEB",
+        "data file": "frontend_basic.json",
+        "keterangan": "Mempelajari Dasar-dasar pengembangan website.",
+        "subbab": [
+          {
+            "title": "Pengantar",
+            "subbab code": "BASEWEB-PN"
+          },
+          {
+            "title": "Cara Kerja Internet",
+            "subbab code": "BASEWEB-INT"
+          },
+          {
+            "title": "Website dan Halaman Web",
+            "subbab code": "BASEWEB-PAGE"
+          },
+          {
+            "title": "Web Server",
+            "subbab code": "BASEWEB-SERV"
+          },
+          {
+            "title": "Web Browser",
+            "subbab code": "BASEWEB-BRW"
+          },
+          {
+            "title": "Anatomi Website",
+            "subbab code": "BASEWEB-SKL"
+          }
+        ]
+      }
+    ]
   }
 ]
